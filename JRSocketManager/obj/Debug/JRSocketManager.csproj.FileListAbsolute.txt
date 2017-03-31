@@ -1,0 +1,17 @@
+C:\JR_Dun\git\JRSocketManager\JRSocketManager\obj\Debug\JRSocketManager.csprojResolveAssemblyReference.cache
+C:\JR_Dun\git\JRSocketManager\JRSocketManager\obj\Debug\JRSocketManager.Properties.Resources.resources
+C:\JR_Dun\git\JRSocketManager\JRSocketManager\obj\Debug\JRSocketManager.csproj.GenerateResource.Cache
+C:\JR_Dun\git\JRSocketManager\JRSocketManager\obj\Debug\JRSocketManager.MainForm.resources
+C:\JR_Dun\git\JRSocketManager\JRSocketManager\bin\Debug\JRSocketManager.exe
+C:\JR_Dun\git\JRSocketManager\JRSocketManager\bin\Debug\JRSocketManager.pdb
+C:\JR_Dun\git\JRSocketManager\JRSocketManager\obj\Debug\JRSocketManager.exe
+C:\JR_Dun\git\JRSocketManager\JRSocketManager\obj\Debug\JRSocketManager.pdb
+E:\git\JRSocketManager\JRSocketManager\obj\Debug\JRSocketManager.exe
+E:\git\JRSocketManager\JRSocketManager\obj\Debug\JRSocketManager.pdb
+E:\git\JRSocketManager\JRSocketManager\bin\Debug\JRSocketManager.exe
+E:\git\JRSocketManager\JRSocketManager\bin\Debug\JRSocketManager.pdb
+E:\git\JRSocketManager\JRSocketManager\obj\Debug\JRSocketManager.csprojResolveAssemblyReference.cache
+E:\git\JRSocketManager\JRSocketManager\obj\Debug\JRSocketManager.MainForm.resources
+E:\git\JRSocketManager\JRSocketManager\obj\Debug\JRSocketManager.Properties.Resources.resources
+E:\git\JRSocketManager\JRSocketManager\obj\Debug\JRSocketManager.csproj.GenerateResource.Cache
+E:\git\JRSocketManager\JRSocketManager\bin\Debug\JRSocketManager.exe.config
